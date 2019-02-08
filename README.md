@@ -45,10 +45,10 @@ A student that completes this project shows that they can:
 
 * Using Lambda Expressions
 
-    * List all the animals in descending order by year named
+    * List all the animals in descending order by year discovered
     * List all the animals alphabetically
-    * List all the animals order by how they move
-    * List only those animals the breath with lungs
-    * List only those animals that breath with lungs and were named in 1758
-    * List only those animals that lay eggs and breath with lungs
-    * List alphabetically only those animals that were named in 1758 
+    * List all the animals in order by how they move
+    * List only those animals the breathe with lungs
+    * List only those animals that breathe with lungs and were named in 1758
+    * List only those animals that lay eggs and breathe with lungs
+    * List alphabetically only those animals that were discovered in 1758 
